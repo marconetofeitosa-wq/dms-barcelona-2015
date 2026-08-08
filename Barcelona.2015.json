@@ -17,18 +17,19 @@
       "Forename": "Gerard",
       "Surname": "Piqué",
       "ImageURL": "https://i.ibb.co/3kW3p2b/pique.png"
-    {,
+    },
+    {
       "ID": 4,
       "Forename": "Javier",
       "Surname": "Mascherano",
       "ImageURL": "https://i.ibb.co/C3yGkX2/mascherano.png"
-
     },
     {
       "ID": 5,
       "Forename": "Jordi",
       "Surname": "Alba",
       "ImageURL": "https://i.ibb.co/3kW3p2b/jordi-alba.png"
+    },
     {
       "ID": 6,
       "Forename": "Sergio",
@@ -40,7 +41,6 @@
       "Forename": "Xavi",
       "Surname": "Hernández",
       "ImageURL": "https://i.ibb.co/3kW3p2b/xavi.png"
-
     },
     {
       "ID": 8,
@@ -120,7 +120,7 @@
       "Surname": "Keita",
       "ImageURL": "https://i.ibb.co/3kW3p2b/keita.png"
     }
-  ]
+  ],
   "ClubData": [
     {
       "ID": 1,
